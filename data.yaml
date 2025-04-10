@@ -1,0 +1,7 @@
+path: "C:/Users/hp/Desktop/Watch_Clock Detection/dataset"
+
+train: images/train
+val: images/val
+
+nc: 2
+names: ['Clock', 'Watch']
